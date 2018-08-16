@@ -33,3 +33,11 @@
 *.xdy
 *.tdo
 .refresh
+
+# https://tex.stackexchange.com/a/55737/128111
+# biber xml file
+*.run.xml
+
+# biblatex control file
+*-blx.bib
+
